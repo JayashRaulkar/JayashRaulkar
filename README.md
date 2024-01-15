@@ -28,7 +28,7 @@ Embedded Systems Enthusiast | Grad student at University of Colorado Boulder | P
   Engineered a BLE application using the X-NUCLEO-BNRG2A1 BLE expansion board and STM32F411RE Nucleo, implementing GATT services for real-time tracking of weight, heart rate, and weather parameters.
   
 ## 📫 Contact
-- LinkedIn: [kiranjojare](https://www.linkedin.com/in/jayashraulkar/)
+- LinkedIn: [jayashraulkar](https://www.linkedin.com/in/jayashraulkar/)
 - Email: jayasharun.raulkar@colorado.edu
 - GitHub: [JayashRaulkar](https://github.com/JayashRaulkar)
 
