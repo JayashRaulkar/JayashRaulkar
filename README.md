@@ -6,25 +6,25 @@ Embedded Systems Enthusiast | Grad student at University of Colorado Boulder | P
 - BE in Electronics and Telecommunication (Hons. IoT), Pune Institute of Computer Technology, Pune
 
 ## 💻 Skills
-- ##### Programming and Concepts: C, C++, Python, Embedded Linux, Bare Metal programming, Digital Signal Processing
+- ### Programming and Concepts: C, C++, Python, Embedded Linux, Bare Metal programming, Digital Signal Processing
 - Peripherals and Protocols: UART, SPI, I2C, BLE
-- #####Tools: STM32Cube IDE, STM32CubeMX, MCUXpresso, Keil, Arduino IDE, MPLAB X IDE, FreeRTOS, Bridgetek EVE, NI Multisim, Proteus, EasyEDA, Altium Designer, Saturn PCB, Github, Matlab, Octave
-- ##### Processors and Boards:
+- ### Tools: STM32Cube IDE, STM32CubeMX, MCUXpresso, Keil, Arduino IDE, MPLAB X IDE, FreeRTOS, Bridgetek EVE, NI Multisim, Proteus, EasyEDA, Altium Designer, Saturn PCB, Github, Matlab, Octave
+- ### Processors and Boards:
   ARM Cortex M processors, STM32F411, FRDM-KL25z, LPC2148, ESP32/8266, ATMega328P
-- ##### Test Equipments:
+- ### Test Equipments:
   Digital oscilloscope, Function Generators, Power Supply, Digital Multimeter, Logic Analyzer, Debugger
 
 ## 💼 Experience
 - Intern - Embedded Systems and IoT Developer Intern, MIBAio Elmec Smart Automation Pvt. Ltd.
 
 ## 🚀 Projects
-- ##### Custom Real-Time OS Scheduler Development (Jan 2024)
+- ### Custom Real-Time OS Scheduler Development (Jan 2024)
   Developed an RTOS for ARM Cortex-M, featuring a Round round-robin scheduler, cooperative scheduling, periodic scheduler, and semaphore for efficient task synchronization.
-- ##### Command Processor - SerialIO (Nov 2023):
+- ### Command Processor - SerialIO (Nov 2023):
   Implemented an interrupt-driven UART command interpreter for the FRDM-KL25Z board, supporting interactive commands such as ECHO, customizable LED parameters, and WAVEFORM with hardware integration.
-- ##### Golden Arduino Custom Board Development (Oct 2023):
+- ### Golden Arduino Custom Board Development (Oct 2023):
   Designed an optimized Arduino UNO variant with minimized noise, ESD protection, and module isolation, significantly reducing near-field emissions and switching noise through advanced circuit design.
-- ##### Bluetooth Low Energy-based Health and Weather Monitoring System (Aug 2023):
+- ### Bluetooth Low Energy-based Health and Weather Monitoring System (Aug 2023):
   Engineered a BLE application using the X-NUCLEO-BNRG2A1 BLE expansion board and STM32F411RE Nucleo, implementing GATT services for real-time tracking of weight, heart rate, and weather parameters.
   
 ## 📫 Contact
