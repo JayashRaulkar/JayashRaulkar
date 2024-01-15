@@ -30,7 +30,9 @@ Embedded Systems Enthusiast | Grad student at University of Colorado Boulder | P
 ## 📫 Contact
 - LinkedIn: [kiranjojare](https://www.linkedin.com/in/jayashraulkar/)
 - Email: jayasharun.raulkar@colorado.edu
-- GitHub: [kiranjojare](https://github.com/JayashRaulkar)
+- GitHub: [JayashRaulkar](https://github.com/JayashRaulkar)
+
+  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JayashRaulkar)
 
 ##  ✅  Projects
