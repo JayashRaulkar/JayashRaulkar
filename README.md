@@ -41,8 +41,8 @@ Embedded Systems Enthusiast | Grad student at University of Colorado Boulder | P
 ##  ✅  Projects
 
 <div>
-  <a href="https://github.com/JayashRaulkar/Colour_Identification">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JayashRaulkar&repo=Colour_Identification&theme=dark" alt="Color Identification">
+  <a href="https://github.com/JayashRaulkar/ECEN5813-Principles-of-Embedded-Software">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JayashRaulkar&repo=ECEN5813-Principles-of-Embedded-Software&theme=dark" alt="Color Identification">
   </a>
   <div style="clear:both;"></div> <!-- Clearing element -->
 </div>
